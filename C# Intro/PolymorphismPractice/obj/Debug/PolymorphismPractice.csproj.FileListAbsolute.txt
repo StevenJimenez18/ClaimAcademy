@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\PolymorphismPractice\obj\Debug\PolymorphismPractice.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\PolymorphismPractice\obj\Debug\PolymorphismPractice.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\PolymorphismPractice\bin\Debug\PolymorphismPractice.exe.config
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\PolymorphismPractice\bin\Debug\PolymorphismPractice.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\PolymorphismPractice\bin\Debug\PolymorphismPractice.pdb
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\PolymorphismPractice\obj\Debug\PolymorphismPractice.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\PolymorphismPractice\obj\Debug\PolymorphismPractice.pdb

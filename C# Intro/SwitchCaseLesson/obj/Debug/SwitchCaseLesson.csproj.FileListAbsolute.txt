@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\SwitchCaseLesson\bin\Debug\SwitchCaseLesson.exe.config
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\SwitchCaseLesson\bin\Debug\SwitchCaseLesson.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\SwitchCaseLesson\bin\Debug\SwitchCaseLesson.pdb
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\SwitchCaseLesson\obj\Debug\SwitchCaseLesson.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\SwitchCaseLesson\obj\Debug\SwitchCaseLesson.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\SwitchCaseLesson\obj\Debug\SwitchCaseLesson.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\SwitchCaseLesson\obj\Debug\SwitchCaseLesson.pdb
