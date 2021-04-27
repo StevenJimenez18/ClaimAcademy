@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\4.5.Assignment\bin\Debug\4.5.Assignment.exe.config
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\4.5.Assignment\bin\Debug\4.5.Assignment.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\4.5.Assignment\bin\Debug\4.5.Assignment.pdb
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\4.5.Assignment\obj\Debug\4.5.Assignment.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\4.5.Assignment\obj\Debug\4.5.Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\4.5.Assignment\obj\Debug\4.5.Assignment.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\4.5.Assignment\obj\Debug\4.5.Assignment.pdb
