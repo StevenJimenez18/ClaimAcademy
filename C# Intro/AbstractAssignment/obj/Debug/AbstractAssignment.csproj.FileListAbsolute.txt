@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractAssignment\bin\Debug\AbstractAssignment.exe.config
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractAssignment\bin\Debug\AbstractAssignment.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractAssignment\bin\Debug\AbstractAssignment.pdb
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractAssignment\obj\Debug\AbstractAssignment.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractAssignment\obj\Debug\AbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractAssignment\obj\Debug\AbstractAssignment.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractAssignment\obj\Debug\AbstractAssignment.pdb
