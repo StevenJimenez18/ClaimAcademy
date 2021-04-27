@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\MethodsLearning\bin\Debug\MethodsLearning.exe.config
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\MethodsLearning\bin\Debug\MethodsLearning.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\MethodsLearning\bin\Debug\MethodsLearning.pdb
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\MethodsLearning\obj\Debug\MethodsLearning.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\MethodsLearning\obj\Debug\MethodsLearning.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\MethodsLearning\obj\Debug\MethodsLearning.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\MethodsLearning\obj\Debug\MethodsLearning.pdb

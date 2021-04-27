@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\LoopsPractice\bin\Debug\LoopsPractice.exe.config
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\LoopsPractice\bin\Debug\LoopsPractice.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\LoopsPractice\bin\Debug\LoopsPractice.pdb
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\LoopsPractice\obj\Debug\LoopsPractice.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\LoopsPractice\obj\Debug\LoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\LoopsPractice\obj\Debug\LoopsPractice.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\LoopsPractice\obj\Debug\LoopsPractice.pdb

@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractionPractice\bin\Debug\AbstractionPractice.exe.config
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractionPractice\bin\Debug\AbstractionPractice.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractionPractice\bin\Debug\AbstractionPractice.pdb
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractionPractice\obj\Debug\AbstractionPractice.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractionPractice\obj\Debug\AbstractionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractionPractice\obj\Debug\AbstractionPractice.exe
+C:\Users\Steven\Desktop\ClaimAcademy\Intro\AbstractionPractice\obj\Debug\AbstractionPractice.pdb
